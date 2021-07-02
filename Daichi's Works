@@ -1,0 +1,49 @@
+{
+  "title": "Daichi's Twitter Manga",
+  "description": "Collection of English Twitter Manga by @Daichi_kwd  Translated with permission by Red String",
+  "artist": "@Daichi_kwd",
+  "author": "@Daichi_kwd",
+  "cover": "https://pbs.twimg.com/profile_images/1365222399252131846/5zA0Q1Rk_400x400.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Highly Capable Witch",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/v5igT27/"
+      },
+      "last_updated": "1620680002"
+    },
+     "2": {
+      "title": "Himekawa's Hidden Power",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/pqCteej"
+      },
+      "last_updated": "1621284802"
+    },
+     "3": {
+      "title": "The Case of the Missing Umbrellas",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/FdrkuC5/"
+      },
+      "last_updated": "1622148802"
+    },
+    "4": {
+      "title": "Office Otsubone-sama",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/zmSRbJR/"
+      },
+      "last_updated": "1623358402"
+    },
+     "5": {
+      "title": "2050's Last Hope",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/bsnjpOS"
+      },
+      "last_updated": "1625205202"
+     }
+  }
+}
