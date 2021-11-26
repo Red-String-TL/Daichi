@@ -45,13 +45,21 @@
       },
       "last_updated": "1625205202"
      },
-     "5": {
+     "6": {
       "title": "Tasks that Transcend Time",
       "volume": "1",
       "groups": {
         "Red String": "/proxy/api/imgur/chapter/vcp10WM"
       },
       "last_updated": "1626520830"
+     },
+     "7": {
+      "title": "Hirukawa the Villain",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/QryvY6b"
+},
+      "last_updated": "1637918462"
     }
   }
 }
